@@ -7,10 +7,5 @@
 
 <br>
 <div align=center>
-	<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/alexein-aner?1337Badge=off&UM6P=off" alt="alexein-aner's 42 stats" /></a>
+	<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/knieve-l?1337Badge=off&UM6P=off" alt="alexein-aner's 42 stats" /></a>
 </div>
-<!-- <div align="center">
-	<a href="https://platzi.com/p/LMNTdev/">
-		<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=knieve-l&bg_color=0D1117&theme=dark" alt="Stats badge"/>
-	</a>
-</div> -->
